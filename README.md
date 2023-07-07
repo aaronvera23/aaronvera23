@@ -8,22 +8,6 @@ I'm a web developer who gets lost in the sauce.
 - Love building side projects that go nowhere 🤷‍♂️
 - Always looking to connect for a 🍻 
 
-When I'm not coding, you can find me:
-
-- Trying to convince my dog that the UPS guy is not an intruder 🐶 
-- Thinking through plot holes in the MCU 🎥
-- On the eternal quest for the perfect slice of pizza 🍕
-
-Want to chat code, movies, or anything else? Hit me up! I'm always happy to nerd out. 🤓
-
-And yes, I did come up with these puns all by myself. I'll be here all week! 🎤  
-
-### Fun Facts
-
-- I once solved a coding challenge in my sleep 😴 (true story!)
-- My code is so efficient, it once made a quantum computer jealous 🧐
-- I can recite the entire documentation for Laravel from memory 🤯
-
 ### Let's Connect!
 
 If you want to chat about code or just geek out over the latest tech trends, feel free to reach out! I'm always happy to connect with fellow developers. 😎
