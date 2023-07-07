@@ -6,7 +6,6 @@ I'm a web developer who gets lost in the sauce.
 - VueJS makes me vue 🦖
 - React gets me to react 🚀
 - Love building side projects that go nowhere 🤷‍♂️
-- Productivity level: Sloth 🦥
 - Always looking to connect for a 🍻 
 
 When I'm not coding, you can find me:
