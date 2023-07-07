@@ -25,17 +25,7 @@ And yes, I did come up with these puns all by myself. I'll be here all week! �
 - My code is so efficient, it once made a quantum computer jealous 🧐
 - I can recite the entire documentation for Laravel from memory 🤯
 
-
-## Hobbies
-
-When I'm not coding, you can find me:
-
-- Playing with my cats 🐱
-- Watching sci-fi movies 🚀
-- Trying out new coffee shops ☕️
-- Hiking and exploring the great outdoors 🌲
-
-## Let's Connect!
+### Let's Connect!
 
 If you want to chat about code or just geek out over the latest tech trends, feel free to reach out! I'm always happy to connect with fellow developers. 😎
 
